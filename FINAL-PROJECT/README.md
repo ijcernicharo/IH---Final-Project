@@ -146,7 +146,7 @@ Next step is to remove all these features that are shown below:<br>
 Features to Drop:
 ['Time (s)', 'Chest Temp (°C)', 'Chest MZ', 'Hand AX2', 'Hand AY2', 'Hand AZ2', 'Chest AX2', 'Chest AY2', 'Chest AZ2', 'Ankle AX2', 'Ankle AY2', 'Ankle AZ2']
 
-Number of Features droped:  12
+Number of Features dropped:  12
 Final Features of columns:  30
 Final number of registers:  2701010
 ```
